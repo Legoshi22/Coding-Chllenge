@@ -1,0 +1,57 @@
+body{
+    background-image: url(background.jpg);
+    padding: 10%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.container{
+margin: auto;
+border-radius: 25px;
+background-color: rgb( 0, 0, 0, 0.5);
+background-size: cover;
+padding: 50px;
+font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+header{
+    color: chartreuse;
+    text-align: center;
+}
+
+.logo{
+    width: 250px;
+}
+
+nav{
+    background-color: chartreuse;
+    text-align: center;
+    padding: 10px;
+}
+
+main{
+    color: white;
+}
+
+.Nome{
+    display: inline-block;
+}
+#Arancione{
+    background: orange;
+    width: 300px;
+    height: 20px;
+    border-radius: 5px;
+}
+#Verde{
+    background: green;
+    width: 500px;
+    height: 20px;
+    border-radius: 5px;
+}
+#Rosso{
+    background: red;
+    width: 150px;
+    height: 20px;
+    border-radius: 5px;
+}
